@@ -38,6 +38,7 @@
 2. 设定分支名：master
 3. 设定Token：填写上一步得到的Token。
 4. 指定存储路径：自定义，例：imgs/，相当于在刚刚新建的仓库下新建了一个文件夹。
+**注意**：上边图片没有设置imgs/而是imgs这样会导致图片直接放到了github仓库下而不是imgs下。
 5. 设定自定义域名：格式：`https://cdn.jsdelivr.net/gh/username/repo`
    username为GitHub用户名，repo为新建的仓库，用于存储图片
 
